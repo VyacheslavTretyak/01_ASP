@@ -1,0 +1,40 @@
+﻿
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    margin: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    border-width: 0;
+    width: 30px;
+    height: 30px;
+}
+
+input[type=text] {
+    padding: 10px 5px;
+    text-align: right;
+    margin: 2px;
+    font-weight: bold;
+    width: 150px;
+}
+#tbInput {   
+    background-color: #333;
+    color: #fff;   
+    font-size: 18px;   
+}
+#tbResult {
+    border: 0;
+    background-color: #888;
+    color: #000;
+}
+
+.label {
+    text-align: right;
+    background-color: #888;
+    font-size: 12px;
+}
+
+.calc {
+    background-color: #888;
+    float: left;
+}
